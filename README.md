@@ -1,1 +1,1 @@
-Mage-OvO.giyhub.io
+Mage-OvO.github.io
